@@ -1,0 +1,63 @@
+[2025/07/22 22-27-58] ----------------------------------------------------------------------------------------------------
+[2025/07/22 22-27-58] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 22-27-58] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 22-27-58] adb服务检测：已连接设备
+[2025/07/22 22-27-58] 开始截图到模拟器...
+[2025/07/22 22-27-59] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_222758_369.png
+[2025/07/22 22-27-59] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_222758_369.png
+[2025/07/22 22-29-46] ----------------------------------------------------------------------------------------------------
+[2025/07/22 22-29-46] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 22-29-46] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 22-29-46] adb服务检测：已连接设备
+[2025/07/22 22-29-46] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 22-29-47] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_222946_129.png
+[2025/07/22 22-29-47] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_222946_129.png
+[2025/07/22 22-45-51] ----------------------------------------------------------------------------------------------------
+[2025/07/22 22-45-51] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 22-45-51] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 22-45-51] adb服务检测：已连接设备
+[2025/07/22 22-45-51] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 22-45-52] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_224551_219.png
+[2025/07/22 22-45-52] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_224551_219.png
+[2025/07/22 22-58-29] ----------------------------------------------------------------------------------------------------
+[2025/07/22 22-58-29] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 22-58-29] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 22-58-29] adb服务检测：已连接设备
+[2025/07/22 22-58-29] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 22-58-31] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_225829_569.png
+[2025/07/22 22-58-31] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_225829_569.png
+[2025/07/22 23-32-36] ----------------------------------------------------------------------------------------------------
+[2025/07/22 23-32-36] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 23-32-36] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 23-32-36] adb服务检测：已连接设备
+[2025/07/22 23-32-36] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 23-32-37] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233236_475.png
+[2025/07/22 23-32-37] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233236_475.png
+[2025/07/22 23-33-19] ----------------------------------------------------------------------------------------------------
+[2025/07/22 23-33-19] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 23-33-19] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 23-33-19] adb服务检测：已连接设备
+[2025/07/22 23-33-19] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 23-33-21] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233319_940.png
+[2025/07/22 23-33-21] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233319_940.png
+[2025/07/22 23-33-56] ----------------------------------------------------------------------------------------------------
+[2025/07/22 23-33-56] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/22 23-33-56] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/22 23-33-56] adb服务检测：已连接设备
+[2025/07/22 23-33-56] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/22 23-33-58] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233356_387.png
+[2025/07/22 23-33-58] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250722_233356_387.png
+[2025/07/23 00-22-52] ----------------------------------------------------------------------------------------------------
+[2025/07/23 00-22-52] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/23 00-22-52] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/23 00-22-52] adb服务检测：已连接设备
+[2025/07/23 00-22-52] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/23 00-22-54] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_002252_203.png
+[2025/07/23 00-22-55] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_002252_203.png
+[2025/07/23 00-44-21] ----------------------------------------------------------------------------------------------------
+[2025/07/23 00-44-21] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/23 00-44-21] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/23 00-44-21] adb服务检测：已连接设备
+[2025/07/23 00-44-21] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/23 00-44-24] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_004421_844.png
+[2025/07/23 00-44-24] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_004421_844.png
