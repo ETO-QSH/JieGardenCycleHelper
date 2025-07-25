@@ -4,6 +4,55 @@ from typing import Dict, List, Optional
 from smart_policy import SmartPolicy
 
 
+class LiveState:
+    def __init__(self, candle, originium, tickets, flower_money, balance_money, fierce_money,
+                 throw_count, ticket_cost, silk_cocoon, prize_count, stay_prob, money_box):
+
+        self.candle = candle
+        self.originium = originium
+        self.tickets = tickets
+        self.flower_money = flower_money
+        self.balance_money = balance_money
+        self.fierce_money = fierce_money
+        self.throw_count = throw_count
+        self.ticket_cost = ticket_cost
+        self.silk_cocoon = silk_cocoon
+        self.prize_count = prize_count
+        self.stay_prob = stay_prob
+        self.money_box = money_box
+
+        self.ACTIONS = [
+            ('衡如常', None),
+            ('厉如锋', '要兵器一对'),
+            ('厉如锋', '要书一卷'),
+            ('厉如锋', '要酒一壶'),
+            ('花如簇', None),
+            ('茧成绢', None)
+        ]
+
+        self.rewards = {
+            '衡如常': {10: ('originium', 15), 20: ('originium', 30), 50: ('originium', 65)},
+            '厉如锋': {
+                '要兵器一对': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+                '要书一卷': {10: ('tickets', 4), 20: ('tickets', 8), 50: ('tickets', 12)},
+                '要酒一壶': {10: ('candle', 2), 20: ('candle', 3), 50: ('candle', 6)},
+            },
+            '花如簇': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+        }
+
+    @staticmethod
+    def get_payment_standard(originium: int):
+        standards = [50, 20, 10]
+        for standard in standards:
+            if originium >= standard:
+                return standard
+        return None
+
+    @staticmethod
+    def silk_cocoon_return(originium: int):
+        return min(originium // 4, 99)
+
+
 class EventSimulator:
     def __init__(self):
         self.candle = 0              # 烛火

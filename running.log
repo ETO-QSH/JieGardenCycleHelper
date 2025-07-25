@@ -61,3 +61,380 @@
 [2025/07/23 00-44-21] 开始截图到模拟器... --> ['/sdcard/screen.png']
 [2025/07/23 00-44-24] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_004421_844.png
 [2025/07/23 00-44-24] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250723_004421_844.png
+[2025/07/25 14-16-17] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-16-17] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-16-17] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-16-17] adb服务检测：未检测到已连接的模拟器或设备
+[2025/07/25 14-16-17] 未检测到已连接的模拟器或设备，请先启动MuMu模拟器并确保adb可用。
+[2025/07/25 14-17-21] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-17-21] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-17-21] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-17-21] adb服务检测：未检测到已连接的模拟器或设备
+[2025/07/25 14-17-21] 未检测到已连接的模拟器或设备，请先启动MuMu模拟器并确保adb可用。
+[2025/07/25 14-18-49] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-18-49] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-18-49] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-18-49] adb服务检测：已连接设备
+[2025/07/25 14-18-49] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-18-49] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250725_141849_363.png
+[2025/07/25 14-18-49] 截图已保存到: D:\Work Files\JieGardenCycleHelper\./screenshot\screen_20250725_141849_363.png
+[2025/07/25 14-40-01] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-40-01] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-40-01] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-40-02] adb服务检测：已连接设备
+[2025/07/25 14-40-02] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-40-02] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144002_003.png
+[2025/07/25 14-40-02] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144002_003.png
+[2025/07/25 14-41-40] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-41-40] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-41-40] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-41-40] adb服务检测：已连接设备
+[2025/07/25 14-41-40] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-41-40] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144140_342.png
+[2025/07/25 14-41-41] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144140_342.png
+[2025/07/25 14-44-29] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-44-29] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-44-29] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-44-29] adb服务检测：已连接设备
+[2025/07/25 14-44-29] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-44-30] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144429_626.png
+[2025/07/25 14-44-30] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144429_626.png
+[2025/07/25 14-47-26] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-47-26] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-47-26] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-47-26] adb服务检测：已连接设备
+[2025/07/25 14-47-26] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-47-27] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144726_894.png
+[2025/07/25 14-47-27] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144726_894.png
+[2025/07/25 14-49-42] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-49-42] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-49-42] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-49-42] adb服务检测：已连接设备
+[2025/07/25 14-49-42] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-49-43] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144942_821.png
+[2025/07/25 14-49-43] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_144942_821.png
+[2025/07/25 14-50-10] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-50-10] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-50-10] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-50-10] adb服务检测：已连接设备
+[2025/07/25 14-50-10] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-50-11] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145010_842.png
+[2025/07/25 14-50-11] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145010_842.png
+[2025/07/25 14-53-21] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-53-21] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-53-21] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-53-21] adb服务检测：已连接设备
+[2025/07/25 14-53-21] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-53-22] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145321_327.png
+[2025/07/25 14-53-22] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145321_327.png
+[2025/07/25 14-54-13] ----------------------------------------------------------------------------------------------------
+[2025/07/25 14-54-13] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 14-54-13] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 14-54-13] adb服务检测：已连接设备
+[2025/07/25 14-54-13] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 14-54-14] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145413_533.png
+[2025/07/25 14-54-14] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_145413_533.png
+[2025/07/25 14-54-14] 点击操作: tap (1620, 556)
+[2025/07/25 15-08-42] ----------------------------------------------------------------------------------------------------
+[2025/07/25 15-08-42] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 15-08-42] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 15-08-42] adb服务检测：已连接设备
+[2025/07/25 15-08-42] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 15-08-43] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_150842_077.png
+[2025/07/25 15-08-43] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_150842_077.png
+[2025/07/25 15-08-43] 匹配到：(1620, 556), 匹配值为：0.9999998211860657
+[2025/07/25 15-08-43] 点击操作: tap (1620, 556)
+[2025/07/25 16-42-19] ----------------------------------------------------------------------------------------------------
+[2025/07/25 16-42-19] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 16-42-19] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 16-42-19] adb服务检测：已连接设备
+[2025/07/25 16-42-19] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 16-42-21] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164219_995.png
+[2025/07/25 16-42-22] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164219_995.png
+[2025/07/25 16-42-42] ----------------------------------------------------------------------------------------------------
+[2025/07/25 16-42-42] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 16-42-42] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 16-42-42] adb服务检测：已连接设备
+[2025/07/25 16-42-42] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 16-42-44] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164242_348.png
+[2025/07/25 16-42-44] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164242_348.png
+[2025/07/25 16-42-44] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 16-43-29] ----------------------------------------------------------------------------------------------------
+[2025/07/25 16-43-29] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 16-43-29] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 16-43-29] adb服务检测：已连接设备
+[2025/07/25 16-43-29] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 16-43-31] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164329_881.png
+[2025/07/25 16-43-31] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164329_881.png
+[2025/07/25 16-43-32] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 16-43-55] ----------------------------------------------------------------------------------------------------
+[2025/07/25 16-43-55] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 16-43-55] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 16-43-55] adb服务检测：已连接设备
+[2025/07/25 16-43-55] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 16-43-57] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164355_604.png
+[2025/07/25 16-43-57] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_164355_604.png
+[2025/07/25 16-43-57] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 16-59-11] ----------------------------------------------------------------------------------------------------
+[2025/07/25 16-59-11] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 16-59-11] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 16-59-11] adb服务检测：已连接设备
+[2025/07/25 16-59-11] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 16-59-13] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_165911_700.png
+[2025/07/25 16-59-13] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_165911_700.png
+[2025/07/25 16-59-14] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-13-32] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-13-32] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-13-32] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-13-33] adb服务检测：已连接设备
+[2025/07/25 17-13-33] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-13-34] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_171333_039.png
+[2025/07/25 17-13-34] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_171333_039.png
+[2025/07/25 17-13-35] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-16-56] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-16-56] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-16-56] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-16-56] adb服务检测：已连接设备
+[2025/07/25 17-16-56] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-16-58] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_171656_349.png
+[2025/07/25 17-16-58] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_171656_349.png
+[2025/07/25 17-16-58] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-23-28] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-23-28] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-23-28] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-23-28] adb服务检测：已连接设备
+[2025/07/25 17-23-28] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-23-30] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172328_193.png
+[2025/07/25 17-23-30] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172328_193.png
+[2025/07/25 17-23-30] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-24-04] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-24-04] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-24-04] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-24-05] adb服务检测：已连接设备
+[2025/07/25 17-24-05] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-24-07] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172405_090.png
+[2025/07/25 17-24-08] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172405_090.png
+[2025/07/25 17-24-08] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-24-08] 
+[2025/07/25 17-25-54] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-25-54] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-25-54] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-25-54] adb服务检测：已连接设备
+[2025/07/25 17-25-54] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-25-57] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172554_088.png
+[2025/07/25 17-25-57] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172554_088.png
+[2025/07/25 17-25-57] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-25-58] 
+[2025/07/25 17-27-15] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-27-15] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-27-15] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-27-15] adb服务检测：已连接设备
+[2025/07/25 17-27-15] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-27-18] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172715_657.png
+[2025/07/25 17-27-18] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_172715_657.png
+[2025/07/25 17-27-19] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-30-22] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-30-22] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-30-22] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-30-22] adb服务检测：已连接设备
+[2025/07/25 17-30-22] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-30-25] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_173022_178.png
+[2025/07/25 17-30-25] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_173022_178.png
+[2025/07/25 17-30-26] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-30-27] 
+[2025/07/25 17-40-08] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-40-08] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-40-08] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-40-08] adb服务检测：已连接设备
+[2025/07/25 17-40-08] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-40-12] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_174008_917.png
+[2025/07/25 17-40-12] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_174008_917.png
+[2025/07/25 17-40-12] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-40-48] ¥
+
+[2025/07/25 17-52-49] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-52-49] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-52-49] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-52-49] adb服务检测：已连接设备
+[2025/07/25 17-52-49] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-52-50] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175249_627.png
+[2025/07/25 17-52-50] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175249_627.png
+[2025/07/25 17-52-50] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-53-03] 
+[2025/07/25 17-53-50] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-53-50] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-53-50] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-53-50] adb服务检测：已连接设备
+[2025/07/25 17-53-50] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-53-51] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175350_301.png
+[2025/07/25 17-53-51] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175350_301.png
+[2025/07/25 17-53-51] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-53-56] 
+[2025/07/25 17-59-19] ----------------------------------------------------------------------------------------------------
+[2025/07/25 17-59-19] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 17-59-19] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 17-59-19] adb服务检测：已连接设备
+[2025/07/25 17-59-19] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 17-59-20] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175919_108.png
+[2025/07/25 17-59-20] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_175919_108.png
+[2025/07/25 17-59-20] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 17-59-24] 
+[2025/07/25 18-02-51] ----------------------------------------------------------------------------------------------------
+[2025/07/25 18-02-51] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 18-02-51] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 18-02-51] adb服务检测：已连接设备
+[2025/07/25 18-02-51] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 18-02-52] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_180251_052.png
+[2025/07/25 18-02-53] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_180251_052.png
+[2025/07/25 18-02-53] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 18-02-58] 
+[2025/07/25 18-12-37] ----------------------------------------------------------------------------------------------------
+[2025/07/25 18-12-37] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 18-12-37] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 18-12-37] adb服务检测：已连接设备
+[2025/07/25 18-12-37] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 18-12-39] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_181237_723.png
+[2025/07/25 18-12-39] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_181237_723.png
+[2025/07/25 18-12-39] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 18-12-46] 
+[2025/07/25 18-30-30] ----------------------------------------------------------------------------------------------------
+[2025/07/25 18-30-30] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 18-30-30] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 18-30-30] adb服务检测：已连接设备
+[2025/07/25 18-30-30] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 18-30-32] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_183030_510.png
+[2025/07/25 18-30-32] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_183030_510.png
+[2025/07/25 18-30-32] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 18-31-08] 
+[2025/07/25 18-33-59] ----------------------------------------------------------------------------------------------------
+[2025/07/25 18-33-59] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 18-33-59] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 18-33-59] adb服务检测：已连接设备
+[2025/07/25 18-33-59] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 18-34-01] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_183359_800.png
+[2025/07/25 18-34-01] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_183359_800.png
+[2025/07/25 18-34-01] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 18-34-05] 钱 盒
+
+[2025/07/25 19-35-34] ----------------------------------------------------------------------------------------------------
+[2025/07/25 19-35-34] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 19-35-34] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 19-35-34] adb服务检测：已连接设备
+[2025/07/25 19-35-34] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 19-35-35] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_193534_243.png
+[2025/07/25 19-35-36] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_193534_243.png
+[2025/07/25 19-35-36] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 19-46-27] ----------------------------------------------------------------------------------------------------
+[2025/07/25 19-46-27] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 19-46-27] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 19-46-27] adb服务检测：已连接设备
+[2025/07/25 19-46-27] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 19-46-28] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194627_053.png
+[2025/07/25 19-46-29] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194627_053.png
+[2025/07/25 19-46-29] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 19-49-15] ----------------------------------------------------------------------------------------------------
+[2025/07/25 19-49-15] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 19-49-15] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 19-49-15] adb服务检测：已连接设备
+[2025/07/25 19-49-15] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 19-49-17] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194915_814.png
+[2025/07/25 19-49-17] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194915_814.png
+[2025/07/25 19-49-17] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 19-49-24] 
+[2025/07/25 19-49-44] ----------------------------------------------------------------------------------------------------
+[2025/07/25 19-49-44] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 19-49-44] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 19-49-44] adb服务检测：已连接设备
+[2025/07/25 19-49-44] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 19-49-46] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194944_645.png
+[2025/07/25 19-49-46] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_194944_645.png
+[2025/07/25 19-49-46] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 19-49-54] 
+[2025/07/25 20-14-04] ----------------------------------------------------------------------------------------------------
+[2025/07/25 20-14-04] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 20-14-04] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 20-14-04] adb服务检测：已连接设备
+[2025/07/25 20-14-04] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 20-14-05] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_201404_120.png
+[2025/07/25 20-14-05] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_201404_120.png
+[2025/07/25 20-14-06] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 20-14-45] ----------------------------------------------------------------------------------------------------
+[2025/07/25 20-14-45] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 20-14-45] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 20-14-45] adb服务检测：已连接设备
+[2025/07/25 20-14-45] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 20-14-46] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_201445_402.png
+[2025/07/25 20-14-47] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_201445_402.png
+[2025/07/25 20-14-47] 匹配到：(1241, 1017), 匹配值为：0.9908592700958252
+[2025/07/25 20-14-53] 钱 盒
+
+[2025/07/25 21-07-10] ----------------------------------------------------------------------------------------------------
+[2025/07/25 21-07-10] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 21-07-10] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 21-07-10] adb服务检测：已连接设备
+[2025/07/25 21-07-11] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-07-13] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210711_342.png
+[2025/07/25 21-07-13] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210711_342.png
+[2025/07/25 21-07-13] 匹配到：(1241, 1017), 匹配值为：0.9998888373374939
+[2025/07/25 21-07-13] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-07-15] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210713_399.png
+[2025/07/25 21-07-15] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210713_399.png
+[2025/07/25 21-07-15] 匹配到：(67, 51), 匹配值为：0.9983687996864319
+[2025/07/25 21-07-15] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-07-16] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210715_374.png
+[2025/07/25 21-07-16] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210715_374.png
+[2025/07/25 21-07-16] 匹配到：(1380, 378), 匹配值为：0.9042913913726807
+[2025/07/25 21-07-16] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-07-18] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210716_980.png
+[2025/07/25 21-07-18] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210716_980.png
+[2025/07/25 21-07-18] 匹配到：(1803, 203), 匹配值为：0.881040632724762
+[2025/07/25 21-07-27] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-07-28] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210727_266.png
+[2025/07/25 21-07-28] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_210727_266.png
+[2025/07/25 21-07-28] 匹配到：(1241, 1017), 匹配值为：0.9998888373374939
+[2025/07/25 21-07-28] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-56-49] ----------------------------------------------------------------------------------------------------
+[2025/07/25 21-56-49] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 21-56-49] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 21-56-49] adb服务检测：已连接设备
+[2025/07/25 21-56-49] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 21-56-52] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_215649_411.png
+[2025/07/25 21-56-52] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_215649_411.png
+[2025/07/25 21-56-53] 未匹配到有效区域, 匹配值为：0.3975198566913605
+[2025/07/25 21-56-53] 未识别到常乐节点
+[2025/07/25 22-00-09] ----------------------------------------------------------------------------------------------------
+[2025/07/25 22-00-09] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 22-00-09] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 22-00-09] adb服务检测：已连接设备
+[2025/07/25 22-00-09] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 22-00-10] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_220009_042.png
+[2025/07/25 22-00-10] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_220009_042.png
+[2025/07/25 22-00-10] 未匹配到有效区域, 匹配值为：0.47946470975875854
+[2025/07/25 22-00-10] 未识别到常乐节点
+[2025/07/25 22-02-59] ----------------------------------------------------------------------------------------------------
+[2025/07/25 22-02-59] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 22-02-59] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 22-02-59] adb服务检测：已连接设备
+[2025/07/25 22-02-59] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 22-03-01] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_220259_904.png
+[2025/07/25 22-03-01] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_220259_904.png
+[2025/07/25 22-03-02] 未匹配到有效区域, 匹配值为：0.515633761882782
+[2025/07/25 22-03-02] 未识别到常乐节点
+[2025/07/25 22-20-44] ----------------------------------------------------------------------------------------------------
+[2025/07/25 22-20-44] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 22-20-44] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 22-20-44] adb服务检测：已连接设备
+[2025/07/25 22-20-44] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 22-20-48] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_222044_698.png
+[2025/07/25 22-20-48] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_222044_698.png
+[2025/07/25 22-20-48] 未匹配到有效区域, 匹配值为：0.48676103353500366
+[2025/07/25 22-20-48] 未识别到常乐节点
+[2025/07/25 22-30-23] ----------------------------------------------------------------------------------------------------
+[2025/07/25 22-30-23] 读取到配置：{'adb_path': 'D:/Program Files/MuMu Player 12/shell/adb.exe', 'screenshot_dir': './screenshot', 'picture_dir': './picture', 'log_file': './running.log'}
+[2025/07/25 22-30-23] adb.exe 检查通过: D:/Program Files/MuMu Player 12/shell/adb.exe
+[2025/07/25 22-30-23] adb服务检测：已连接设备
+[2025/07/25 22-30-23] 开始截图到模拟器... --> ['/sdcard/screen.png']
+[2025/07/25 22-30-25] 拉取截图到本地: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_223023_435.png
+[2025/07/25 22-30-25] 截图已保存到: D:\Work Files\JieGardenCycleHelper\screenshot\screen_20250725_223023_435.png
+[2025/07/25 22-30-26] 未匹配到有效区域, 匹配值为：0.4319674074649811
+[2025/07/25 22-30-26] 未识别到常乐节点
