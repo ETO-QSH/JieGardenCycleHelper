@@ -49,10 +49,10 @@ def adb_tap(adb_path, x, y):
         time.sleep(1)
         log(f"点击操作: tap ({x}, {y})")
         subprocess.run([adb_path, 'shell', 'input', 'tap', str(x), str(y)], check=True)
-        return True
+        return x, y
     except Exception as e:
         log(f"点击操作失败：{e}")
-        return False
+        return None
 
 
 def adb_swipe(adb_path, x1, y1, x2, y2, duration_ms=300):

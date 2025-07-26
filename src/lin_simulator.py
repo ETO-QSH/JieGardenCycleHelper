@@ -6,7 +6,7 @@ from smart_policy import SmartPolicy
 
 class LiveState:
     def __init__(self, candle, originium, tickets, flower_money, balance_money, fierce_money,
-                 throw_count, ticket_cost, silk_cocoon, prize_count, stay_prob, money_box):
+                 throw_count, ticket_cost, silk_cocoon, prize_count, stay_prob):
 
         self.candle = candle
         self.originium = originium
@@ -19,7 +19,9 @@ class LiveState:
         self.silk_cocoon = silk_cocoon
         self.prize_count = prize_count
         self.stay_prob = stay_prob
-        self.money_box = money_box
+
+        self.money_box = ['花'] * flower_money + ['衡'] * balance_money + ['厉'] * fierce_money
+        self.standard = 0
 
         self.ACTIONS = [
             ('衡如常', None),
@@ -33,11 +35,11 @@ class LiveState:
         self.rewards = {
             '衡如常': {10: ('originium', 15), 20: ('originium', 30), 50: ('originium', 65)},
             '厉如锋': {
-                '要兵器一对': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+                '要兵器一对': {10: ('prize_count', 2), 20: ('prize_count', 3), 50: ('prize_count', 6)},
                 '要书一卷': {10: ('tickets', 4), 20: ('tickets', 8), 50: ('tickets', 12)},
                 '要酒一壶': {10: ('candle', 2), 20: ('candle', 3), 50: ('candle', 6)},
             },
-            '花如簇': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+            '花如簇': {10: ('prize_count', 2), 20: ('prize_count', 3), 50: ('prize_count', 6)},
         }
 
     @staticmethod
@@ -81,11 +83,11 @@ class EventSimulator:
         self.rewards = {
             '衡如常': {10: ('originium', 15), 20: ('originium', 30), 50: ('originium', 65)},
             '厉如锋': {
-                '要兵器一对': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+                '要兵器一对': {10: ('prize_count', 2), 20: ('prize_count', 3), 50: ('prize_count', 6)},
                 '要书一卷': {10: ('tickets', 4), 20: ('tickets', 8), 50: ('tickets', 12)},
                 '要酒一壶': {10: ('candle', 2), 20: ('candle', 3), 50: ('candle', 6)},
             },
-            '花如簇': {10: ('prize_count', 2), 20: ('prize_count', 4), 50: ('prize_count', 6)},
+            '花如簇': {10: ('prize_count', 2), 20: ('prize_count', 3), 50: ('prize_count', 6)},
         }
 
     def set_initial_state(self, **kwargs):

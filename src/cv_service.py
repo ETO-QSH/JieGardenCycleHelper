@@ -1,11 +1,11 @@
-import re
 import cv2
 import numpy as np
-import pytesseract
 
+from cnocr import CnOcr
 from public_object import log
 
-pytesseract.pytesseract.tesseract_cmd = r'D:\Program Files\Tesseract-OCR\tesseract.exe'
+
+ocr = CnOcr()
 
 
 def imread_unicode(path, flags=cv2.IMREAD_COLOR):
@@ -35,6 +35,7 @@ def match_template(screen_img_path, template_img_path, threshold=0.8):
     # 匹配
     res = cv2.matchTemplate(screen_gray, template_gray, cv2.TM_CCOEFF_NORMED)
     min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(res)
+    log(f"尝试匹配图片：{template_img_path}")
 
     if max_val >= threshold:
         center = max_loc[0] + template.shape[1] // 2, max_loc[1] + template.shape[0] // 2
@@ -47,21 +48,12 @@ def match_template(screen_img_path, template_img_path, threshold=0.8):
 
 
 def ocr_image(img):
-    str_list = [
-        '0123456789', '零壹贰叁肆伍陆', '祸乱', '传说', '杂疑', '故肆', '拾遗', '易与', '常乐', '筹谋',
-        '是非境', '洪陆楼', '山水阁', '云瓦亭', '汝吾门', '见字祠', '始末陵', '种因得果', '掷地有声', '三缺一',
-        '欣然应许', '消耗获得源石锭', '还是算了', '多一事不如少一事', '确定这么做', '衡如常', '厉如锋', '花如簇',
-        '当前持有花衡厉钱枚', '天随人愿', '不尽人意', '什么都没有发生', '收下', '离开', '来就来', '还是算了',
-        '剩余烛火', '自选奖励', '要兵器一对', '书一卷', '酒一壶', '钱盒', '，？',
-    ]
 
     # cv2.imshow("ROI", img)
     # cv2.waitKey(0)  # 按任意键关闭
     # cv2.destroyAllWindows()
 
-    img = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    _, th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+    digits = ocr.ocr_for_single_line(img)
 
-    text = pytesseract.image_to_string(th, lang='chi_sim', config=f'--psm 7').replace(' ', '')
-    return text
+    log(f"ocr_image：{digits}")
+    return digits['text']

@@ -1,6 +1,6 @@
 from public_object import log, config, adb_path, ocr_pic
 from adb_service import check_adb_path, check_adb_device
-from circle_logic import match_only, do_circle, safe_exit, delete_old_screenshots
+from circle_logic import match_only, do_circle, safe_exit, delete_old_screenshots, match_and_orc
 from lin_simulator import LiveState
 from src.smart_policy import SmartPolicy
 
@@ -31,6 +31,15 @@ if __name__ == "__main__":
         log("未检测到已连接的模拟器或设备，请先启动MuMu模拟器并确保adb可用。")
         safe_exit(1)
 
+    if match_only(ocr_pic['钱盒']):
+        candle = int(match_and_orc(*ocr_pic['剩余烛火']))
+        prize_count = int(match_and_orc(*ocr_pic['收藏品']))
+        log(f"识别到剩余烛火：{candle}, 识别到收藏品数量：{prize_count}")
+
+    originium = int(match_and_orc(*ocr_pic['源石锭']))
+    tickets = int(match_and_orc(*ocr_pic['票券']))
+    log(f"识别到源石锭：{originium}, 识别到票券：{tickets}")
+
     if not match_only(ocr_pic['小常乐']):
         log("未识别到常乐节点")
         safe_exit(1)
@@ -38,8 +47,7 @@ if __name__ == "__main__":
     live_state = LiveState(
         candle=0, originium=0, tickets=0,
         flower_money=flower_money, balance_money=balance_money, fierce_money=fierce_money,
-        throw_count=throw_count, ticket_cost=ticket_cost, silk_cocoon=silk_cocoon, prize_count=0,
-        stay_prob=stay_prob, money_box=['花'] * flower_money + ['衡'] * balance_money + ['厉'] * fierce_money
+        throw_count=throw_count, ticket_cost=ticket_cost, silk_cocoon=silk_cocoon, prize_count=0, stay_prob=stay_prob
     )
 
     policy = SmartPolicy()  # 启动智能决策系统

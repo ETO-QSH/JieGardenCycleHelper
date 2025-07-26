@@ -60,6 +60,7 @@ class SmartPolicy:
 
             # 折算衡如常刷取源石锭的价值
             r_ingot = sim.rewards['衡如常'][std][1] * p_heng
+            sim.standard = std
 
             # 折算票券间接刷取源石锭的价值（小除一个方差）
             t, p = (sim.tickets + sim.rewards['厉如锋']['要书一卷'][std][1]) // sim.ticket_cost, sim.throw_count / len(sim.money_box)
